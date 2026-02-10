@@ -1,2 +1,6 @@
 branch commit
+
 This is New commit in Master file merge
+
+this is code merge in phase3
+
